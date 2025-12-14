@@ -40,9 +40,9 @@ Since this is a database-driven application, you need to configure it on your lo
 
 This project was a collaborative effort developed as a group assignment.
 
-* **[İbrahim Çobanköse](https://github.com/IbrahimCobankose)** - *Backend Development & Database Architecture*
-* **[Emir Karayılan](https://github.com/emirkarayilan)** - *Frontend Design & Logic Implementation*
-* **[Enes Türkmenoğlu](https://github.com/enestrkmngll)** - *Testing & Module Integration*
+* **[İbrahim Çobanköse](https://github.com/IbrahimCobankose)** 
+* **[Emir Karayılan](https://github.com/emirkarayilan)** 
+* **[Enes Türkmenoğlu](https://github.com/enestrkmngll)** 
 
 ---
 
